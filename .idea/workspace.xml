@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc5aed7a-045f-40cf-a4f6-bd947ed42299" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo 3 New Driver License.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cc5aed7a-045f-40cf-a4f6-bd947ed42299" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +50,18 @@
       <option name="presentableId" value="Default" />
       <updated>1662912520649</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Driver's License&#10;You have to get a new driver's license and you show up at the office at the same time as 4 other people. The office says that they will see everyone in alphabetical order and it takes 20 minutes for them to process each new license. All of the agents are available now, and they can each see one customer at a time. How long will it take for you to walk out of the office with your new license? &#10; &#10;Task  &#10;Given everyone's name that showed up at the same time, determine how long it will take to get your new license. &#10; &#10;Input Format  &#10;Your input will be a string of your name, then an integer of the number of available agents, and lastly a string of the other four names separated by spaces. &#10; &#10;Output Format  &#10;You will output an integer of the number of minutes that it will take to get your license. &#10; &#10;Sample Input &#10;'Eric' &#10;2 &#10;'Adam Caroline Rebecca Frank' &#10; &#10;Sample Output  &#10;40">
+      <created>1662915081438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662915081439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Driver's License&#10;You have to get a new driver's license and you show up at the office at the same time as 4 other people. The office says that they will see everyone in alphabetical order and it takes 20 minutes for them to process each new license. All of the agents are available now, and they can each see one customer at a time. How long will it take for you to walk out of the office with your new license? &#10; &#10;Task  &#10;Given everyone's name that showed up at the same time, determine how long it will take to get your new license. &#10; &#10;Input Format  &#10;Your input will be a string of your name, then an integer of the number of available agents, and lastly a string of the other four names separated by spaces. &#10; &#10;Output Format  &#10;You will output an integer of the number of minutes that it will take to get your license. &#10; &#10;Sample Input &#10;'Eric' &#10;2 &#10;'Adam Caroline Rebecca Frank' &#10; &#10;Sample Output  &#10;40" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Driver's License&#10;You have to get a new driver's license and you show up at the office at the same time as 4 other people. The office says that they will see everyone in alphabetical order and it takes 20 minutes for them to process each new license. All of the agents are available now, and they can each see one customer at a time. How long will it take for you to walk out of the office with your new license? &#10; &#10;Task  &#10;Given everyone's name that showed up at the same time, determine how long it will take to get your new license. &#10; &#10;Input Format  &#10;Your input will be a string of your name, then an integer of the number of available agents, and lastly a string of the other four names separated by spaces. &#10; &#10;Output Format  &#10;You will output an integer of the number of minutes that it will take to get your license. &#10; &#10;Sample Input &#10;'Eric' &#10;2 &#10;'Adam Caroline Rebecca Frank' &#10; &#10;Sample Output  &#10;40" />
   </component>
 </project>
